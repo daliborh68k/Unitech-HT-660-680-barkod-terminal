@@ -3,3 +3,7 @@ Program za provođenje inventure skladišta na Windows CE 5.0/6.0 platformi (Com
 Dvokomponentna aplikacija (Windows CE aplikacija koja se vrti na Barkod terminalu, te Windows Desktop aplikacija za prijenos
 podataka iz terminala (USB konekcija) na file sistem, i/ili u SQL bazu), te generiranje Crystal reports izvještaja o prikupljenim
 podacima (očitanjima).
+
+ENGLISH:
+# Unitech-HT-660-680-barkod-terminal
+Warehouse stock counting and recording application based on Windows CE 5.0/6.0 platform (Compact framework, SQL Server Compact Edition)
